@@ -1,0 +1,9 @@
+[package]
+name = "optimal-animal"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+diesel = "2.2.4"
+rocket = "0.5.1"
+serde = "1.0.215"
